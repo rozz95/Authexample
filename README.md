@@ -1,8 +1,9 @@
 # Authexample
 
 Este proyecto es un ejemplo práctico de una aplicación móvil creada con **React Native + Expo**, que implementa autenticación y almacenamiento de datos usando **Firebase**. Forma parte del Diplomado en la Universidad del Valle.
+Estudiante: Rozztin Uribe Laime
 
-## ?? Funcionalidades principales
+## Funcionalidades principales
 
 - Registro y login de usuarios usando **Firebase Authentication**.
 - Validación de campos para:
@@ -14,7 +15,7 @@ Este proyecto es un ejemplo práctico de una aplicación móvil creada con **Rea
   - Comida favorita
 - Los datos del formulario se almacenan en **Cloud Firestore**.
 
-## ?? Tecnologías usadas
+## Tecnologías usadas
 
 - React Native + Expo
 - Firebase (Authentication + Firestore)
