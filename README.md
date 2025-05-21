@@ -1,28 +1,28 @@
 # Authexample
 
-Este proyecto es un ejemplo pr醕tico de una aplicaci髇 m髒il creada con **React Native + Expo**, que implementa autenticaci髇 y almacenamiento de datos usando **Firebase**. Forma parte del Diplomado en la Universidad del Valle.
+Este proyecto es un ejemplo pr谩ctico de una aplicaci贸n m贸vil creada con **React Native + Expo**, que implementa autenticaci贸n y almacenamiento de datos usando **Firebase**. Forma parte del Diplomado en la Universidad del Valle.
 
 ## ?? Funcionalidades principales
 
 - Registro y login de usuarios usando **Firebase Authentication**.
-- Validaci髇 de campos para:
-  - Correo electr髇ico (formato v醠ido)
-  - Contrase馻 (longitud m韓ima)
+- Validaci贸n de campos para:
+  - Correo electr贸nico (formato v谩lido)
+  - Contrase帽a (longitud m铆nima)
 - Pantalla principal (Home) con un formulario que permite ingresar:
   - Nombre
   - Apellido
   - Comida favorita
 - Los datos del formulario se almacenan en **Cloud Firestore**.
 
-## ?? Tecnolog韆s usadas
+## ?? Tecnolog铆as usadas
 
 - React Native + Expo
 - Firebase (Authentication + Firestore)
 - JavaScript (ES6)
 
-## C髆o ejecutar el proyecto
+## C贸mo ejecutar el proyecto
 
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/Authexample.git
+   git clone https://github.com/rozz95/Authexample.git
